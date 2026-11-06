@@ -9,5 +9,8 @@
 		"somma": "node main.js",
 		"test": "node main.js 2 3",
 		"saluta": "echo ciao"
+	},
+	"dependencies": {
+		"bootstrap": "^5.3.8"
 	}
 }

@@ -1,0 +1,13 @@
+{
+	"name": "node-aiwd",
+	"version": "1.0.0",
+	"description": "Esempio di app che gira su node",
+	"license": "ISC",
+	"author": "Luca (λ) Lambia",
+	"type": "commonjs",
+	"scripts": {
+		"somma": "node main.js",
+		"test": "node main.js 2 3",
+		"saluta": "echo ciao"
+	}
+}
